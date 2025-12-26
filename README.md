@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODEmap.html
-
+~~~
 {% load static %}
 <title>RAMANATHAPURAM MAP</title>
 <body>
@@ -166,7 +166,7 @@ urlpatterns = [
     path('temple.html/',views.temple),
     path('water.html/',views.water),
 ]
-
+~~~
 # OUTPUT<img width="642" height="359" alt="image" src="https://github.com/user-attachments/assets/604f5dc6-22c1-43d3-ac69-f510ab9bff66" />
 <img width="639" height="353" alt="Screenshot 2025-12-23 210501" src="https://github.com/user-attachments/assets/feedf8f2-8673-45f2-a45f-31af25a28c37" />
 
